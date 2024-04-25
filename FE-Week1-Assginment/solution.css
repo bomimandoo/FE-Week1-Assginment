@@ -45,11 +45,16 @@ form {
     flex-direction: column;
     flex-wrap: wrap;
     align-content: flex-end;
-    width: 5%;
-    padding: 100px;
+    width: 12%;
+    padding: 10px;
     
 }
-    
+
+form input {
+    width: 180px;
+    padding: 20px;
+    margin-top: 5px;
+}
 
 div{
     padding: 10px;
